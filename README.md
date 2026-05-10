@@ -4,7 +4,7 @@
 
 Based in Munich, Germany 🇩🇪
 
-<img src="https://custom-build-robots.com/wp-content/uploads/2025/10/ESP32_Roboter_Auto_Gabelstapler_Erweiterung_small.jpg" alt="ESP32 robot car with forklift extension" width="100%" />
+<img src="https://custom-build-robots.com/wp-content/uploads/2025/10/ESP32_Roboter_Auto_Gabelstapler_Erweiterung_small.jpg" alt="ESP32 robot car with forklift extension" width="50%" />
 
 ---
 
@@ -12,7 +12,7 @@ Based in Munich, Germany 🇩🇪
 
 In May 2026 I'm running a robotics project week for 3rd and 4th graders as part of the **Talente-Tour 2026**. Children build small ESP32-based robot cars from scratch — wiring up sensors, programming motor drivers, and getting them to drive. The goal: hands-on robotics from the very start, with every component understandable and repairable. No black boxes, no plug-and-play kits.
 
-<img src="https://custom-build-robots.com/wp-content/uploads/2026/05/Roboter_Auto_ESP32_Schulprojekt_10_public-scaled.jpg" alt="Talente-Tour 2026 ESP32 robot cars" width="400" />
+<img src="https://custom-build-robots.com/wp-content/uploads/2026/05/Roboter_Auto_ESP32_Schulprojekt_10_public-scaled.jpg" alt="Talente-Tour 2026 ESP32 robot cars" width="600" />
 
 ---
 
