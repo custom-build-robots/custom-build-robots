@@ -4,7 +4,7 @@
 
 Based in Munich, Germany 🇩🇪
 
-<img src="https://custom-build-robots.com/wp-content/uploads/2025/10/ESP32_Roboter_Auto_Gabelstapler_Erweiterung_small.jpg" alt="ESP32 robot car with forklift extension" width="50%" />
+<img src="https://ai-box.eu/wp-content/uploads/2024/06/Real_Time_Landmine_Detection-scaled.jpg" alt="ESP32 robot car with forklift extension" width="60%" />
 
 ---
 
