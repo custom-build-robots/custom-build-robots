@@ -4,7 +4,9 @@
 
 Based in Munich, Germany 🇩🇪
 
-<img src="https://custom-build-robots.com/wp-content/uploads/2025/10/ESP32_Roboter_Auto_Gabelstapler_Erweiterung_small.jpg" alt="ESP32 robot car with forklift extension" width="100%" />
+
+
+<img src="https://ai-box.eu/wp-content/uploads/2024/06/Real_Time_Landmine_Detection-1024x768.jpg" alt="Jetson Nano FPM-1 mine detector YOLO" width="70%" />
 
 ---
 
@@ -41,7 +43,7 @@ In May 2026 I'm running a robotics project week for 3rd and 4th graders as part 
   <img src="https://s3-eu-west-1.amazonaws.com/cover2.galileo-press.de/print/9783367111442_267.png" alt="Roboter-Autos mit dem ESP32" height="220" />
   <img src="https://s3-eu-west-1.amazonaws.com/cover2.galileo-press.de/print/9783836267557_267.png" alt="Robot Cars with the Raspberry Pi" height="220" />
 </p>
-
+<img src="https://custom-build-robots.com/wp-content/uploads/2025/10/ESP32_Roboter_Auto_Gabelstapler_Erweiterung_small.jpg" alt="ESP32 robot car with forklift extension" width="100%" />
 ---
 
 ## 🛠️ What I'm working on
